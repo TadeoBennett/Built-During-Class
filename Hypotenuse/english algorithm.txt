@@ -1,0 +1,22 @@
+//input h, a, b
+If a is not provided or is 0, 
+assign a to the missing side value m
+assign b to given side's value g
+else 
+assign a to given side's value g
+assign b to missing side value m
+
+assign h the value of itself squared
+assign g the value of iself squared
+find the difference of h and g and assign the result to d
+find the square root of d and assign the value to m
+return m  as the answer
+
+if a is 0
+check if m is greater than the square root of g
+if yes then print "a is longer than b"
+else print "b is longer than a"
+else if b is 0
+check if m is greater than the square root of g
+if yes then print "b is longer than a"
+else print "a is longer than b"
