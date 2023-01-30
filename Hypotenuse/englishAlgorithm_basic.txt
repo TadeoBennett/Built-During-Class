@@ -1,0 +1,12 @@
+square h and assign the new value back to h
+
+square a and assign the value to g
+
+subtract g from h and assign the value to b
+
+find the square root of b and assign the value back to b
+
+return b as the answer
+
+if a is greater than b, print "a is longer than b"
+else print " 
